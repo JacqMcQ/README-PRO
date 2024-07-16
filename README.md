@@ -4,6 +4,8 @@
 ## Description
 To create a README generator using the command line so that I  can quickly create a  professional README for any new project. 
 
+![alt text](assets/command_line.png)
+
 ## Table of Contents
   - [Install](#install)
   - [Usage](#usage)
