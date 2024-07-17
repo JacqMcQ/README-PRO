@@ -98,7 +98,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then(answers => {
-            writeToFile('README.md', answers);
+            writeToFile('READMEsample.md', answers);
         })
         .catch(error => {
             console.error('Error occurred during user input:', error);

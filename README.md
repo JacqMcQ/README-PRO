@@ -1,4 +1,3 @@
-
 # README-pro
 
 ## Description
@@ -23,4 +22,3 @@ Coursework from UT Austin Coding Bootcamp, mainly from a miniproject creating a 
 
 ## Badges
 n/a
-
