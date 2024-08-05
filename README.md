@@ -3,6 +3,8 @@
 ## Description
 To create a README generator using the command line so that I  can quickly create a  professional README for any new project. 
 
+Demo Video: https://drive.google.com/file/d/18ulvTNRnBivc14EU6DQ3z186gGtQwxHQ/view
+
 ![alt text](assets/command_line.png)
 
 ## Table of Contents
@@ -22,3 +24,7 @@ Coursework from UT Austin Coding Bootcamp, mainly from a miniproject creating a 
 
 ## Badges
 n/a
+
+## License 
+
+This project is licensed under the ISC License.
